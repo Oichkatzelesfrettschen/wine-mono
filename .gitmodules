@@ -1,33 +1,33 @@
 [submodule "mono"]
 	path = mono
-	url = ../mono
+	url = https://github.com/Oichkatzelesfrettschen/mono.git
 [submodule "mono-basic"]
 	path = mono-basic
-	url = ../mono-basic
+	url = https://gitlab.winehq.org/mono/mono-basic.git
 [submodule "FNA"]
 	path = FNA
-	url = ../FNA
+	url = https://github.com/FNA-XNA/FNA.git
 [submodule "FNA.NetStub"]
 	path = FNA.NetStub
-	url = ../FNA.NetStub
+	url = https://github.com/FNA-XNA/FNA.NetStub.git
 [submodule "winforms"]
 	path = winforms
-	url = ../winforms
+	url = https://gitlab.winehq.org/mono/winforms.git
 [submodule "winforms-datavisualization"]
 	path = winforms-datavisualization
-	url = ../winforms-datavisualization
+	url = https://gitlab.winehq.org/mono/winforms-datavisualization.git
 [submodule "wpf"]
 	path = wpf
-	url = ../wpf
+	url = https://gitlab.winehq.org/mono/wpf.git
 [submodule "monoDX"]
 	path = monoDX
-	url = ../monoDX
+	url = https://gitlab.winehq.org/mono/monoDX.git
 [submodule "vstests"]
 	path = vstests
-	url = ../wine-mono-vstests
+	url = https://gitlab.winehq.org/mono/wine-mono-vstests.git
 [submodule "monolite"]
 	path = monolite
-	url = ../monolite-binaries.git
+	url = https://gitlab.winehq.org/mono/monolite-binaries.git
 [submodule "mono-basic-compat"]
 	path = mono-basic-compat
-	url = ../mono-basic-compat.git
+	url = https://gitlab.winehq.org/mono/mono-basic-compat.git
